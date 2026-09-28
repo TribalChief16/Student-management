@@ -1,8 +1,9 @@
-Student Management System
+# Student Management System
 
 A Python-based student management application that helps manage student information, academic results, and attendance records.
 
-Features:
+## Features:
+
 1.Add students
 2.View all students
 3.Search students by name
@@ -19,13 +20,14 @@ Features:
 14.Store data using SQLite
 15.Data remains available after restarting the application
 
-Technologies Used:-
+## Technologies Used:-
+
 1.Python
 2.SQLite
 3.Git
 4.GitHub
 
-Project Structure:-
+## Project Structure:-
 
 Student-management
 │
@@ -35,7 +37,8 @@ Student-management
 
 students.db is a local database file and is excluded from Git tracking.
 
-How to Run
+## How to Run
+
 Clone the repository.
 Open the project folder in VS Code.
 Run:
@@ -43,7 +46,7 @@ python main.py
 
 The SQLite database will be created automatically when the application starts.
 
-Application Menu
+## Application Menu
 
 1. Add Student
 2. View Students
@@ -61,14 +64,16 @@ Student information, marks, and attendance records are stored in a local SQLite 
 
 The data remains available even after closing and restarting the application.
 
-Future Improvements:
+## Future Improvements:
+
 1.Graphical user interface
 2.Student performance charts
 3.Attendance reports
 4.Export reports to PDF
 5.Login and authentication system
 
-Screenshots:-
+## Screenshots:-
+
 1.Main Menu
 
 2.Student Records
